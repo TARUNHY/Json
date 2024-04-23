@@ -1,0 +1,64 @@
+{
+ "Products":[
+    {
+      "id":1,
+      "Name":"Iphone",
+      "img":"https://tse1.mm.bing.net/th?id=OIP.XH1vxJhUZSeRSjaracgx3wHaJ4&pid=Api&P=0&h=220",
+      "price":"$250"
+    },
+    {
+        "id":2,
+        "Name":"Google Pixel",
+        "img":"https://www.tech-wonders.com/wp-content/uploads/2021/01/Google-Pixel-5-5G-Android-Smartphone.jpg",
+        "price":"$450"
+      },
+      {
+        "id":3,
+        "Name":"OnePluse",
+        "img":"https://tse1.mm.bing.net/th?id=OIP.fqGLPuzvDRaDFuevodg1RwHaHa&pid=Api&P=0&h=220",
+        "price":"$380"
+      },
+      {
+        "id":4,
+        "Name":"Nothing",
+        "img":"https://www.journaldugeek.com/content/uploads/2022/07/nothing-phone1-01.jpeg",
+        "price":"$280"
+      },
+      {
+        "id":5,
+        "Name":"Samsung Galaxy S24",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.Dsbg_lJqUbThqEYepTq9rwHaFj&pid=Api&P=0&h=220",
+        "price":"$550"
+      },
+      {
+        "id":6,
+        "Name":"Poco",
+        "img":"https://tse4.mm.bing.net/th?id=OIP.ld6D76lVxyWry6YoFGsXZgHaHa&pid=Api&P=0&h=220",
+        "price":"$220"
+      },
+      {
+        "id":7,
+        "Name":"vivo",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.3a_OCmeOeNE_xqRIQMJsfwHaHa&pid=Api&P=0&h=220",
+        "price":"$240"
+      },
+      {
+        "id":8,
+        "Name":"oppo",
+        "img":"https://tse1.mm.bing.net/th?id=OIP.DWcfr4qAyhbioTcaDN0VbgHaHa&pid=Api&P=0&h=220",
+        "price":"$230"
+      },
+      {
+        "id":9,
+        "Name":"redmi",
+        "img":"https://i5.walmartimages.com/asr/92b6051a-a33f-4382-a338-1e919440daca_1.fab02427d0112bf727072ead8bee66d1.jpeg",
+        "price":"$180"
+      },{
+        "id":10,
+        "Name":"infinix",
+        "img":"https://tse2.mm.bing.net/th?id=OIP.56NAyM96R8xBJDGeuSPpAQHaHa&pid=Api&P=0&h=220",
+        "price":"$150"
+      }
+ ]
+
+}
